@@ -171,11 +171,6 @@ The scripts call Siril's `sirilpy.ensure_installed(...)` to install required Pyt
 - Very aggressive sharpening can create halos around the lunar limb.
 - Large FITS sequences can require significant disk space and processing time.
 
-## Suggested repository name
-
-```text
-dwarf-mini-planetary-siril
-```
 
 ## License
 
